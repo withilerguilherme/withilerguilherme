@@ -1,5 +1,5 @@
 - # Olá, eu sou o Withiler # 
-- 💻 QA tester
+- 💻 Quality Assurance - QA
 -🌍 Brazil
 <div align="left">
   <a href="https://github.com/withilerguilherme">
